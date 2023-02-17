@@ -34,8 +34,7 @@
 - json
 - requests
 - pandas
-- import folium
-- from folium 
+- folium
 - plotly
 - math
 - datashader 
